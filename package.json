@@ -1,0 +1,25 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seppar93/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seppar93/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/seppar93/LIRI-Bot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
+}
